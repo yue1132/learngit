@@ -1,2 +1,2 @@
 # learngit
-续写使用Git
+学习使用Git......
