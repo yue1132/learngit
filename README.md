@@ -1,2 +1,3 @@
 # learngit
 学习使用Git......
+git status --查看git状态
