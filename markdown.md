@@ -26,6 +26,19 @@
 支持 jsfiddle、gist、runjs、优酷视频，直接填写 url，在其之后会自动添加预览点击会展开相关内容。
 
 http://{url_of_the_fiddle}/embedded/[{tabs}/[{style}]]/
+
 https://gist.github.com/{gist_id}
+
 http://runjs.cn/detail/{id}
+
 http://v.youku.com/v_show/id_{video_id}.html
+
+
+# 表格
+相关代码：
+
+| Tables        | col1          | col2  |
+| ------------- |:-------------:| -----:|
+| table1        |col1           | co3   |
+| table2        | col2          | co4   |
+
