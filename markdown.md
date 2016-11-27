@@ -37,8 +37,8 @@ http://v.youku.com/v_show/id_{video_id}.html
 # 表格
 相关代码：
 
-| Tables        | col1          | col2  |
-| ------------- |:-------------:| -----:|
-| table1        |col1           | co3   |
-| table2        | col2          | co4   |
+| Tables|col1| col2|
+| ------|:---:| ---:|
+| table1|col1| co3|
+| table2| col2| co4|
 
