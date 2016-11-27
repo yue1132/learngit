@@ -21,3 +21,11 @@
 ![](http://s4.51cto.com/wyfs02/M00/75/E3/wKioL1ZEQQbS3NWMAABrx2FxCJ8768.jpg)
 
 
+# 扩展
+
+支持 jsfiddle、gist、runjs、优酷视频，直接填写 url，在其之后会自动添加预览点击会展开相关内容。
+
+http://{url_of_the_fiddle}/embedded/[{tabs}/[{style}]]/
+https://gist.github.com/{gist_id}
+http://runjs.cn/detail/{id}
+http://v.youku.com/v_show/id_{video_id}.html
