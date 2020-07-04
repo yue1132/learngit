@@ -1,5 +1,5 @@
 # learngit
-
+--- 
 设置自己的用户名和邮箱
 git config --global user.name "Your name"
 git config --global user.email "you@example.com"
